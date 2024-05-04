@@ -1,0 +1,45 @@
+
+header {
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+	padding: 10px;
+	text-align: right;
+}
+
+body {
+	background-color: #fff3b8;
+}
+
+footer {
+	text-align: center;
+	font-size: 20px;
+	background-color: brown;
+	color: #ffffff;
+	margin: 0px;
+	padding: 5px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #00552e;
+    border-radius: 20px;
+    color: #ffffff;
+	padding: 10px 14px;
+    text-align: center;
+   	margin-top: 0px;
+}
+
+h2 {
+	font-size: 20px;
+	color: #000000;
+	margin-top: 30px;
+}
+
+.japaneseColumn{
+	background-color: #fff3b8;
+	border: 5px dashed indianred;
+	border-top: none;
+	border-radius: 20px;
+	margin: 10px;
+}
