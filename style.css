@@ -1,7 +1,12 @@
 @font-face {
 	font-family: 'CC-ultimatum';
 	src: url('fonts/cc-ultimatum-bold-italic.otf') format('opentype');
+
+	font-family: 'onryou'; 
+	src: url('cinecaption226.ttf') format('truetype');
 }
+
+
 
 header {
 	font-size: 20px;
