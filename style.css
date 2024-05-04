@@ -1,3 +1,7 @@
+@font-face {
+	font-family: 'CC-ultimatum';
+	src: url('fonts/cc-ultimatum-bold-italic.otf') format('opentype');
+}
 
 header {
 	font-size: 20px;
