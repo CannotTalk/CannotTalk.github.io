@@ -1,7 +1,8 @@
 @font-face {
 	font-family: 'CC-ultimatum';
 	src: url('fonts/cc-ultimatum-bold-italic.otf') format('opentype');
-
+}
+@font-face {
 	font-family: 'cinecaption226'; 
 	src: url('cinecaption226.ttf') format('truetype');
 }
